@@ -1,0 +1,2 @@
+DZFile for Disk Zip File Engine, which can support various loseless compression algorithms
+The file fistly is written to specified directory, then to be compressed and saved into a new file.
